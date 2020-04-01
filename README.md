@@ -71,6 +71,7 @@
 - [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)
 - [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)
 - [Java Singleton Patten](https://www.hackerrank.com/challenges/java-singleton/problem)
+- [Java Visitor Patter](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)
 - [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)
 - [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)
 - [Java Lambda Expression](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
