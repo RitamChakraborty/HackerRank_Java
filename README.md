@@ -37,3 +37,5 @@
 - [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
 - [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)
 - [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)
+- [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
+
