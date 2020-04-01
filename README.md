@@ -49,3 +49,6 @@
 - [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
 - [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)
 - [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)
+
+## Object Oriented Programming
+- [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
