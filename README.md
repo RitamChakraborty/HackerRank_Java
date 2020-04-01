@@ -17,3 +17,4 @@
 
 ## Strings
 - [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
+- [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)
