@@ -70,3 +70,4 @@
 - [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)
 - [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)
 - [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)
+- [Java Singleton Patten](https://www.hackerrank.com/challenges/java-singleton/problem)
