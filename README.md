@@ -52,3 +52,4 @@
 
 ## Object Oriented Programming
 - [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)
+- [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
