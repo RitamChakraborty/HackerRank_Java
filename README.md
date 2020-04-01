@@ -35,3 +35,4 @@
 
 ## Data Structures
 - [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
+- [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)

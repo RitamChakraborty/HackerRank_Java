@@ -1,4 +1,4 @@
-package java_big_integer;
+package big_numbers.java_big_integer;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
