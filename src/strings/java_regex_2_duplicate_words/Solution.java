@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/duplicate-word/problem
+
 package strings.java_regex_2_duplicate_words;
 
 import java.io.BufferedReader;

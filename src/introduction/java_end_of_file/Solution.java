@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-end-of-file/problem
+
 package introduction.java_end_of_file;
 
 import java.io.BufferedReader;

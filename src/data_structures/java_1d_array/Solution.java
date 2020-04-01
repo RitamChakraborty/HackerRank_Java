@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
+
 package data_structures.java_1d_array;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-substring/problem
+
 package strings.java_substring;
 
 import java.io.BufferedReader;

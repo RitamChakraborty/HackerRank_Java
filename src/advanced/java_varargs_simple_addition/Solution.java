@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/simple-addition-varargs/problem
+
 package advanced.java_varargs_simple_addition;
 
 import java.io.BufferedReader;

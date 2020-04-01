@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-string-compare/problem
+
 package strings.java_substring_comparision;
 
 import java.io.BufferedReader;

@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-singleton/problem
+
 package advanced.java_singleton_pattern;
 
 class Singleton {

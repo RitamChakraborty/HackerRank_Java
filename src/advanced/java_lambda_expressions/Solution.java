@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-lambda-expressions/problem
+
 package advanced.java_lambda_expressions;
 
 import java.io.BufferedReader;

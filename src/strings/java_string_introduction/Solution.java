@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-strings-introduction/problem
+
 package strings.java_string_introduction;
 
 import java.io.BufferedReader;

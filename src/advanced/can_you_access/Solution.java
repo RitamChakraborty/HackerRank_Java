@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/can-you-access/problem
+
 package advanced.can_you_access;
 
 import java.io.BufferedReader;

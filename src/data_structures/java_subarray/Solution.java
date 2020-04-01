@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-negative-subarray/problem
+
 package data_structures.java_subarray;
 
 import java.io.BufferedReader;

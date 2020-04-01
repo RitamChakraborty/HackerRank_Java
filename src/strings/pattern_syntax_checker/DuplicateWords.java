@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/duplicate-word/problem
+
 package strings.pattern_syntax_checker;
 
 import java.io.BufferedReader;

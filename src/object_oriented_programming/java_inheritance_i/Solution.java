@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
 package object_oriented_programming.java_inheritance_i;
 
 class Animal {

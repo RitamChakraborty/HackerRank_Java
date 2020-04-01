@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-2d-array/problem
+
 package data_structures.java_2d_array;
 
 import java.io.BufferedReader;

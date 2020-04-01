@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/prime-checker/problem
+
 package advanced.prime_checker;
 
 import java.io.BufferedReader;
