@@ -73,3 +73,4 @@
 - [Java Singleton Patten](https://www.hackerrank.com/challenges/java-singleton/problem)
 - [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)
 - [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)
+- [Java Lambda Expression](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
