@@ -45,3 +45,4 @@
 - [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem)
 - [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)
 - [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)
+- [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)
