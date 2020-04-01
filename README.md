@@ -69,3 +69,4 @@
 - [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)
 - [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)
 - [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)
+- [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)
