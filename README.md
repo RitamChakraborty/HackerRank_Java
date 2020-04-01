@@ -19,3 +19,4 @@
 - [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
 - [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem)
 - [Java Substring Comparision](https://www.hackerrank.com/challenges/java-string-compare/problem)
+- [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)
