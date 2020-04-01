@@ -32,3 +32,6 @@
 - [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 - [Java Primality Text](https://www.hackerrank.com/challenges/java-primality-test/problem)
 - [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)
+
+## Data Structures
+- [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
