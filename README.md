@@ -48,3 +48,4 @@
 - [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)
 - [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
 - [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)
+- [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)
