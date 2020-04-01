@@ -42,3 +42,4 @@
 - [Java List](https://www.hackerrank.com/challenges/java-list/problem)
 - [Java Map](https://www.hackerrank.com/challenges/phone-book/problem)
 - [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem)
+- [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem)
