@@ -14,3 +14,6 @@
 - [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)
 - [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)
 - [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)
+
+## Strings
+- [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem)
