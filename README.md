@@ -12,3 +12,4 @@
 - [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)
 - [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 - [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)
+- [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem)
