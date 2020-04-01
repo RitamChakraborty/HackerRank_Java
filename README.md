@@ -21,3 +21,4 @@
 - [Java Substring Comparision](https://www.hackerrank.com/challenges/java-string-compare/problem)
 - [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)
 - [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem)
+- [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)
