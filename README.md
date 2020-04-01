@@ -10,3 +10,4 @@
 - [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem)
 - [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)
 - [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)
+- [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
