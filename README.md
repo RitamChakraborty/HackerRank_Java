@@ -63,3 +63,6 @@
 ## Exception Handling
 - [Java Exception Handling (Try-Catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 - [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)
+
+## Advanced
+- [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
