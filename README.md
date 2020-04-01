@@ -39,4 +39,4 @@
 - [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
 - [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)
 - [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)
-
+- [Java List](https://www.hackerrank.com/challenges/java-list/problem)
