@@ -55,3 +55,4 @@
 - [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)
 - [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)
 - [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)
+- [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)
