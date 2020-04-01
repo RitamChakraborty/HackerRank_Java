@@ -31,3 +31,4 @@
 ## BigNumber
 - [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 - [Java Primality Text](https://www.hackerrank.com/challenges/java-primality-test/problem)
+- [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem)
