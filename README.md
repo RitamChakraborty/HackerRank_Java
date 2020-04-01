@@ -46,3 +46,4 @@
 - [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)
 - [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)
 - [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)
+- [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
