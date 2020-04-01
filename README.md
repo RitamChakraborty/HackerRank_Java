@@ -71,3 +71,4 @@
 - [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)
 - [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)
 - [Java Singleton Patten](https://www.hackerrank.com/challenges/java-singleton/problem)
+- [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)
