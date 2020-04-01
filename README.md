@@ -76,3 +76,5 @@
 - [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)
 - [Java Lambda Expression](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
 - [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)
+- [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)
+
